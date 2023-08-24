@@ -37,3 +37,7 @@ This is an Angular e-commerce project that showcases a simple online shopping pl
 - Angular Material
 - HttpClient for API communication
 - Mockoon for simulating API endpoints
+## Illustration
+![image](https://github.com/namnam2303/angular-amazing-painting/assets/85600809/1d28c41d-7de5-4009-91c7-8d7e9254b4ab)
+![image](https://github.com/namnam2303/angular-amazing-painting/assets/85600809/5814a1b0-9c27-4b0c-856d-050b1db4df99)
+
