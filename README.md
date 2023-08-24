@@ -13,12 +13,15 @@ This is an Angular e-commerce project that showcases a simple online shopping pl
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/angular-ecommerce.git
+   git clone https://github.com/namnam2303/angular-amazing-painting.git
    cd angular-ecommerce
 2. Install the required dependencies.
+    ``` bash
    npm install
-3. Start the development server.
-4. Open your web browser and navigate to http://localhost:4200/ to see the application in action.
+4. Start the development server.
+   ``` bash
+   ng serve
+5. Open your web browser and navigate to http://localhost:4200/ to see the application in action.
 ## Usage
 - Browse the product collection on the homepage.
 - Use the search bar to filter products by name.
